@@ -2,7 +2,7 @@
   "mod_id": "6PjHUHCH8zzJXo",
   "mod_reference": "Calculator",
   "name": "Calculator",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "sml_version": "2.1.0",
   "description": "Press F9 for ingame caculator.",
   "authors": ["Rusketh", "Deantendo"],
